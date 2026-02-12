@@ -23,7 +23,7 @@ Here’s a simple representation of my setup:
 
 ---
 
-## 📦 Services on hosted on Kubernates
+## 📦 Services hosted on Kubernates
 
 Here is a non exhaustive list of the services hosted on Avalon and their source code:
 
